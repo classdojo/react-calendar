@@ -1,3 +1,11 @@
+# Class Dojo Fork:
+
+
+
+
+====================================================================================================================================================================
+
+
 [![npm](https://img.shields.io/npm/v/react-calendar.svg)](https://www.npmjs.com/package/react-calendar) ![downloads](https://img.shields.io/npm/dt/react-calendar.svg) ![build](https://travis-ci.com/wojtekmaj/react-calendar.svg?branch=master) ![dependencies](https://img.shields.io/david/wojtekmaj/react-calendar.svg) ![dev dependencies](https://img.shields.io/david/dev/wojtekmaj/react-calendar.svg) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 
 # React-Calendar
